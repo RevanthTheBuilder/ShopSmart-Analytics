@@ -18,3 +18,7 @@ Key Features:
 
 The objective of the **BlinkLit Dashboard** is to develop a lightweight, real-time application that accurately detects and monitors eye blinks using facial landmarks and visualizes the results through an interactive dashboard. By combining computer vision techniques with a user-friendly interface, this project aims to support use cases such as drowsiness detection, cognitive load assessment, and health monitoring — enabling timely insights and actionable responses in both personal and professional environments.
 
+##Dataset used
+- <a href ="https://github.com/RevanthTheBuilder/ShopSmart-Analytics/blob/main/BlinkIT%20Grocery%20Data.xlsx">Dataset</a>
+ 
+  
