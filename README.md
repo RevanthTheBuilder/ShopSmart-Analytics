@@ -41,3 +41,22 @@ The objective of the **BlinkLit Dashboard** is to develop a lightweight, real-ti
 - Is there a correlation between price, rating, and sales volume?
 
 - What factors contribute to cart abandonment or poor product performance?
+
+Sure! Here's a **short and crisp version** of the **process** for your BlinkIT Grocery Dashboard:
+
+
+
+### ⚙️ Process 
+
+1. **Data Collection:** Gathered product-level grocery data from BlinkIT simulation.
+2. **Preprocessing:** Cleaned, formatted, and structured the dataset using Pandas.
+3. **EDA:** Explored trends, top products, and category-wise insights.
+4. **KPI Design:** Defined key metrics like revenue, stock rate, and average rating.
+5. **Dashboard Development:** Built interactive visuals using Streamlit & Seaborn.
+6. **Testing:** Verified data accuracy and UI responsiveness.
+7. **Deployment:** Uploaded to GitHub with clear documentation and dataset link.
+
+
+## DASBOARD
+
+https://github.com/RevanthTheBuilder/ShopSmart-Analytics/blob/main/image.png
