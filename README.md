@@ -18,7 +18,26 @@ Key Features:
 
 The objective of the **BlinkLit Dashboard** is to develop a lightweight, real-time application that accurately detects and monitors eye blinks using facial landmarks and visualizes the results through an interactive dashboard. By combining computer vision techniques with a user-friendly interface, this project aims to support use cases such as drowsiness detection, cognitive load assessment, and health monitoring — enabling timely insights and actionable responses in both personal and professional environments.
 
-##Dataset used
+## Dataset used
 - <a href ="https://github.com/RevanthTheBuilder/ShopSmart-Analytics/blob/main/BlinkIT%20Grocery%20Data.xlsx">Dataset</a>
  
-  
+ Questions to Explore
+- Which product categories generate the highest revenue?
+
+- What are the top 10 best-selling grocery items?
+
+- Which items have the highest customer ratings and reviews?
+
+- How do discounts affect product sales or customer ratings?
+
+- What is the average delivery time across different product categories or cities?
+
+- Which suppliers consistently maintain high stock levels and delivery performance?
+
+- What are the seasonal trends in demand for specific grocery items?
+
+- Which products are often out of stock, and why?
+
+- Is there a correlation between price, rating, and sales volume?
+
+- What factors contribute to cart abandonment or poor product performance?
